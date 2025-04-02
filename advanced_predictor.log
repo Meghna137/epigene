@@ -1,0 +1,7 @@
+INFO:root:Advanced predictor initialized successfully
+ERROR:root:Prediction failed: columns are missing: {'Stress_Moisture', 'Stress Treatment', 'Promoter Methylation (%)', 'Soil Moisture (%)', 'Methylation_Interaction', 'Plant Species', 'Gene Body Methylation (%)'}
+INFO:root:Advanced predictor initialized successfully
+ERROR:root:Prediction failed: invalid index to scalar variable.
+INFO:root:Advanced predictor initialized successfully
+ERROR:root:Prediction failed: 'bool' object has no attribute 'astype'
+INFO:root:Advanced predictor initialized successfully

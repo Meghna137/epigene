@@ -1,0 +1,89 @@
+INFO:root:Predictor initialized successfully
+ERROR:root:Prediction failed: columns are missing: {'Soil Moisture (%)', 'Stress Treatment', 'Gene Body Methylation (%)', 'Plant Species', 'Promoter Methylation (%)'}
+INFO:root:Predictor initialized successfully
+ERROR:root:Prediction failed: invalid index to scalar variable.
+INFO:root:Predictor initialized successfully
+ERROR:root:Prediction failed: index 1 is out of bounds for axis 0 with size 1
+INFO:root:Predictor initialized successfully
+ERROR:root:Prediction failed: index 1 is out of bounds for axis 0 with size 1
+INFO:root:Predictor initialized successfully
+INFO:root:Predictor initialized successfully
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Predictor initialized successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 688-557-193
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:48:53] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:48:57] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:50:06] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:50:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:50:30] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:50:40] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\OneDrive\\Desktop\\mini modified\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\OneDrive\\Desktop\\mini modified\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Predictor initialized successfully
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Predictor initialized successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 688-557-193
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\flask_cors\\__init__.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Predictor initialized successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 688-557-193
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:54:02] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:54:03] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:55:24] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:55:25] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 11:14:22] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 11:14:22] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 11:14:50] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 11:14:51] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 11:15:18] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 11:15:18] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 11:15:36] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 11:15:36] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 11:16:15] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 11:16:15] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 11:25:56] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 11:25:57] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 12:15:25] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 12:15:25] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\logging\\__init__.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Predictor initialized successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 688-557-193
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\OneDrive\\Desktop\\mini modified\\model_training.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Predictor initialized successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 688-557-193
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\sklearn\\feature_selection\\_mutual_info.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Predictor initialized successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 688-557-193
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\joblib\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_typing\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_typing\\_shape.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Predictor initialized successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 688-557-193
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\sklearn\\pipeline.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Predictor initialized successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 688-557-193
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\dataclasses.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Predictor initialized successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 688-557-193
